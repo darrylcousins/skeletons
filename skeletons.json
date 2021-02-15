@@ -41,6 +41,12 @@
       "description": "HTML5 Boilerplate, jQuery. Unsupported but still working."
     },
     {
+      "title": "Brunch with Crank",
+      "url": "darrylcousins/brunch-with-crank",
+      "technologies": "JavaScript, Crank, JSX",
+      "description": "Write JSX-driven components with functions, promises and generators."
+    },
+    {
       "title": "Brunch Phaser Desktop",
       "url": "delni/brunch-phaser-desktop",
       "technologies": "TypeScript, Electron, Phaser",
